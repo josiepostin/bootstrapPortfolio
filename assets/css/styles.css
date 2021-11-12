@@ -1,0 +1,116 @@
+/* Variables */
+/* :root {
+  --font-family: "Roboto", sans-serif;
+  --normal-font: 400;
+  --bold-font: 700;
+  --bolder-font: 900;
+  --bg-color: #fcfcfc;
+  --primary-color: #4756df;
+  --secondary-color: #ff7235;
+  --primary-shadow: #8b8eaf;
+  --secondary-shadow: #a17a69;
+  --bottom-margin: 0.5rem;
+  --bottom-margin-2: 1rem;
+  --line-height: 1.7rem;
+  --transition: 0.3s;
+} */
+/* html {
+  scroll-behavior: smooth;
+} */
+/* CSS Resets */
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 2px solid red;
+} */
+/*
+ul {
+  list-style-type: none;
+} */
+/* a {
+  text-decoration: none;
+  color: var(--primary-color);
+} */
+/* a:hover {
+  text-decoration: none;
+  color: var(--secondary-color);
+} */
+/* body {
+  font-family: var(--font-family);
+} */
+/* My Own Code starts Below: */
+
+
+.navbar-brand {
+  font-weight: bolder;
+}
+
+.nav-item {
+  padding-left: 1rem;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.hero-title {
+  padding: 1.875rem;
+  margin: 7rem 5rem;
+  border-radius: 7px;
+  box-shadow: 2px 2px 18px #8b8eaf;
+}
+
+.headings-title {
+  text-align: center;
+  padding: 1rem;
+}
+
+.hero-description {
+  padding-top: 8px;
+}
+
+.more-about {
+  background-color: #fcfcfc;
+  padding: 3rem;
+  margin: 3rem;
+}
+
+.skills {
+  width: 50%;
+  background-color: #fff;
+  padding: 3rem;
+  margin: auto;
+}
+
+
+.skills-img {
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px #a17a69;
+  width: 180px;
+  height: 180px;
+  margin-bottom: 20px;
+  padding: 30px;
+
+}
+
+/* Projects */
+
+.projects {
+  background-color: #fcfcfc;
+}
+
+
+
+.project-card {
+  background-color: #fff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px #8b8eaf;
+  padding: 10px;
+  margin: 10px;
+}
+
+/* Contact Me */
+
+.contactMe {
+  width: 50%;
+  margin: auto;
+}
