@@ -1,3 +1,11 @@
+## This is a modified version using Bootstrap  which inspired from the original version by:
+
+## Author
+[@koladechris](https://www.twitter.com/koladechris)
+
+## In God We Trust
+Disclaimer: I do not own any assets of this project. 
+
 # DEVELOPER PORTFOLIO
 
 A portfolio website template for campers
@@ -15,6 +23,8 @@ This is the [link](https://github.com/Ksound22/developer-portfolio) to the Githu
 ## Sample Website
 
 A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+
+
 
 ## Tech Stack
 
