@@ -1,5 +1,5 @@
-/* Variables */
-/* :root {
+Variables
+ :root {
   --font-family: "Roboto", sans-serif;
   --normal-font: 400;
   --bold-font: 700;
@@ -13,32 +13,33 @@
   --bottom-margin-2: 1rem;
   --line-height: 1.7rem;
   --transition: 0.3s;
-} */
-/* html {
+} 
+ html {
   scroll-behavior: smooth;
-} */
+} 
 /* CSS Resets */
-/* {
+
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* border: 2px solid red;
-} */
-/*
+  /* border: 2px solid red; */
+} 
+
 ul {
   list-style-type: none;
-} */
-/* a {
+} 
+ a {
   text-decoration: none;
   color: var(--primary-color);
-} */
-/* a:hover {
+} 
+ a:hover {
   text-decoration: none;
   color: var(--secondary-color);
-} */
-/* body {
+} 
+ body {
   font-family: var(--font-family);
-} */
+} 
 /* My Own Code starts Below: */
 
 
