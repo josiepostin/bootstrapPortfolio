@@ -71,14 +71,14 @@ ul {
 
 .more-about {
   background-color: #fcfcfc;
-  padding: 3rem;
-  margin: 3rem;
+  padding: 0.5rem 3rem;
+  margin: 0.25 3rem;
 }
 
 .skills {
   width: 50%;
   background-color: #fff;
-  padding: 3rem;
+  /* padding: 0 3rem; */
   margin: auto;
 }
 
