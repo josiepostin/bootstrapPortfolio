@@ -116,6 +116,10 @@ ul {
   margin: auto;
 }
 
-.footer {
+/* .footer {
   height: auto;
+} */
+
+#footer {
+  height: 150px;
 }
